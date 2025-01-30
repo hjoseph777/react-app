@@ -12,7 +12,7 @@ You may also see any lint errors in the console.
 
 ### Counter.js
 
-The `Counter.js` file contains the code for a simple counter component. It includes functionality to increment and decrement a counter value. You can view the code [here](./src/components/Counter.js).
+The `Counter.js` file contains the code for a simple counter component. It includes functionality to increment and decrement a counter value. You can view the code [here](./src/Counter.js).
 
 ### App.js
 
